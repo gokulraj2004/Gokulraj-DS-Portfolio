@@ -7,14 +7,14 @@ Gokulraj-portfolio.github.io
 ## Education
 - B.Tech , Computer Science Engineering with specialization in Artificial intelligence and Machine Learning | Vellore Institute of Technology					
 
-## Work Experience
+(## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -31,6 +31,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
+
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
@@ -41,7 +42,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
+## Licenses & certifications
+- [Google Cloud Essentials]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.cloudskillsboost.google/public_profiles/9c5027db-04ab-4849-b254-437ce90cdc5f/badges/5301086?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)https://www.cloudskillsboost.google/public_profiles/9c5027db-04ab-4849-b254-437ce90cdc5f/badges/5301086?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- 
+- [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-f30c64c6-b27e-4deb-94db-36f59e4040b4/)
+- [Excel Essentials for the Real World (Complete Excel Course)](https://www.udemy.com/certificate/UC-69908847-94cc-46fc-8d89-be3c150a38b1/)
 
-
-- [Data Science Blog](https://medium.com/@shawhin)
