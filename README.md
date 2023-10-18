@@ -2,12 +2,10 @@
 Gokulraj-portfolio.github.io
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Azure cloud(Az-104), Google cloud Platform, 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.Tech , Computer Science Engineering with specialization in Artificial intelligence and Machine Learning | Vellore Institute of Technology					
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
